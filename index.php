@@ -6,6 +6,6 @@
 	<body>
   	<?php
 			echo "a"
-		?>
+	?>
 	</body>
 </html>
