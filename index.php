@@ -4,8 +4,8 @@
 		
 	</head>
 	<body>
-  	<?php
+  		<?php
 			echo "a"
-	?>
+		?>
 	</body>
 </html>
